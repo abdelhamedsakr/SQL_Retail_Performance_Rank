@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# Retail_Performance_Rank SQL Project
 
 ## Objectives
 
